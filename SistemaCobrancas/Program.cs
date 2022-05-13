@@ -1,4 +1,5 @@
 ﻿using System;
+using SistemaCobrancas.Presentation;
 
 namespace SistemaCobrancas
 {
@@ -6,7 +7,9 @@ namespace SistemaCobrancas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CustomerChargePresentation presentation = new CustomerChargePresentation();
+
+            presentation.Menu();
         }
     }
 }

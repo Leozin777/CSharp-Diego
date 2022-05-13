@@ -22,14 +22,16 @@ namespace SistemaCobrancas.Services
             var numberOfCustomers = customerList.Count;
 
             if(numberOfCustomers == 0)
-                return builder.Append("Lista vazia!").ToString();
+                builder.Append("Lista vazia!");
             else
             {
                 foreach (Customer customer in customerList)
                 {
                     builder.AppendLine("Id: " + customer.Id + " Nome: " + customer.Name + " Telefone" + customer.PhoneNumber);
                 }
-            }    
+            }   
+
+            return builder.ToString(); 
         }
     }
 }

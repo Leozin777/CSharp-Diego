@@ -1,0 +1,16 @@
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.exe
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.deps.json
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.runtimeconfig.json
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.runtimeconfig.dev.json
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.dll
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\ref\SistemaCobrancas.dll
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\bin\Debug\net5.0\SistemaCobrancas.pdb
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.csproj.AssemblyReference.cache
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.AssemblyInfoInputs.cache
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.AssemblyInfo.cs
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.csproj.CoreCompileInputs.cache
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.dll
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\ref\SistemaCobrancas.dll
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.pdb
+C:\Users\leobo\Desktop\Estudos\Aula-c#-diego\SistemaCobrancas\obj\Debug\net5.0\SistemaCobrancas.genruntimeconfig.cache
